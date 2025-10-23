@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "6534db6e66c6fbde",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a1fd3d6c50ee2c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd0fba93695dcbf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCU_learning/03---模块资料/03---通信/串口通信/串口通信_02_UART.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "串口通信_02_UART"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f51620d61f01f5d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c5b5c1abaa9fe4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59e15fc714b419e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "331f272560044d19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c711a35a2e3511d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 426.5
+  },
+  "right": {
+    "id": "02c4a8ecaf4cef20",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ddcee40cf24e8d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1ea56a684f4bbb0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MCU_learning/03---模块资料/03---通信/串口通信/串口通信_02_UART.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "串口通信_02_UART 的反向链接列表"
+            }
+          },
+          {
+            "id": "1cebda45cc9da5bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MCU_learning/03---模块资料/03---通信/串口通信/串口通信_02_UART.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "串口通信_02_UART 的出链列表"
+            }
+          },
+          {
+            "id": "e58bd324bcc3591a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "baf507335fdc70d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MCU_learning/03---模块资料/03---通信/串口通信/串口通信_02_UART.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "串口通信_02_UART 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "cd0fba93695dcbf8",
+  "lastOpenFiles": [
+    "MCU_learning/03---模块资料/03---通信/串口通信/Untitled.md",
+    "MCU_learning/03---模块资料/03---通信/串口通信/串口通信_02_UART.md",
+    "MCU_learning/03---模块资料/03---通信/串口通信/tutorial_template 1.md",
+    "Cpp_tutorial/00_document_template/tutorial_template/tutorial_template.md",
+    "Cpp_tutorial/01_basic_example/000_basic_tutorial/03_第三章简单的输入输出.md",
+    "blogs_note/CSDN_author.md",
+    "blogs_note/公众号范例.md",
+    "MCU_learning/03---模块资料/JSON学习笔记.md",
+    "MCU_learning/03---模块资料/03---通信/串口通信/串口通信_01_概述.md",
+    "GCC程序的编译过程.pdf",
+    "docs.md",
+    "MCU_learning/01_freeRTOS/code/FreeRTOSv202406.01/FreeRTOS-LTS/LICENSE.md"
+  ]
+}
