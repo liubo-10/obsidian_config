@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Dracula for Obsidian"
+  "cssTheme": "Prism",
+  "theme": "obsidian",
+  "baseFontSize": 19,
+  "nativeMenus": false
 }
