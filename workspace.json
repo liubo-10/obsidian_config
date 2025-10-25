@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCU_learning/03---模块资料/03---通信/串口通信/串口通信_02_UART.md",
+                "file": "cpp_STL_tutorial/01_STL_string/tutorial/01_CPP_STL之string.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "串口通信_02_UART 的反向链接列表"
+              "title": "01_CPP_STL之string 的反向链接列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCU_learning/03---模块资料/03---通信/串口通信/串口通信_02_UART.md",
+                "file": "cpp_STL_tutorial/01_STL_string/tutorial/01_CPP_STL之string.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "串口通信_02_UART 的大纲"
+              "title": "01_CPP_STL之string 的大纲"
             }
           },
           {
@@ -165,12 +165,12 @@
               "title": "添加笔记属性"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +181,24 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false
     }
   },
   "active": "4015e3cd95de424e",
   "lastOpenFiles": [
+    "cpp_STL_tutorial/01_STL_string/code/02_STL_string_set_value/src/main.cpp",
+    "cpp_STL_tutorial/01_STL_string/code/02_STL_string_set_value/readme/readme.md",
+    "cpp_STL_tutorial/01_STL_string/code/02_STL_string_set_value/Cmake/CMakeLists.txt",
+    "cpp_STL_tutorial/01_STL_string/code/02_STL_string_set_value/result/result.log",
+    "cpp_STL_tutorial/01_STL_string/code/02_STL_string_set_value/build/Makefile",
+    "cpp_STL_tutorial/01_STL_string/code/02_STL_string_set_value/bin/myname",
+    "cpp_STL_tutorial/01_STL_string/code/02_STL_string_set_value/src",
+    "cpp_STL_tutorial/01_STL_string/code/02_STL_string_set_value/readme",
+    "cpp_STL_tutorial/01_STL_string/code/02_STL_string_set_value/Cmake",
+    "cpp_STL_tutorial/01_STL_string/code/02_STL_string_set_value/result",
+    "cpp_STL_tutorial/01_STL_string/code/02_STL_string_set_value/build",
+    "cpp_STL_tutorial/01_STL_string/code/02_STL_string_set_value/bin",
     "MCU_learning/03---模块资料/03---通信/串口通信/Untitled.md",
     "MCU_learning/03---模块资料/03---通信/串口通信/串口通信_02_UART.md",
     "MCU_learning/03---模块资料/03---通信/串口通信/tutorial_template 1.md",
@@ -195,7 +208,6 @@
     "blogs_note/公众号范例.md",
     "MCU_learning/03---模块资料/JSON学习笔记.md",
     "MCU_learning/03---模块资料/03---通信/串口通信/串口通信_01_概述.md",
-    "GCC程序的编译过程.pdf",
     "docs.md",
     "MCU_learning/01_freeRTOS/code/FreeRTOSv202406.01/FreeRTOS-LTS/LICENSE.md"
   ]
