@@ -1,6 +1,9 @@
 {
   "cssTheme": "Prism",
   "theme": "obsidian",
-  "baseFontSize": 16,
-  "nativeMenus": false
+  "baseFontSize": 18,
+  "nativeMenus": false,
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "等线"
 }
