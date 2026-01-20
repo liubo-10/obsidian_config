@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "30277c6ad7858921",
+        "id": "3b486917b3d9fbcf",
         "type": "tabs",
         "children": [
           {
-            "id": "53748eadcf55cbc6",
+            "id": "7d0e994f9d36ec50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp_STL_tutorial/01_STL_string/tutorial/02_CPP_STL之string_进阶操作.md",
-                "mode": "preview",
+                "file": "cpp_STL_tutorial/02_STL_vector/tutorial/04_STL_vector_size_and_capacity.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_CPP_STL之string_进阶操作"
+              "title": "04_STL_vector_size_and_capacity"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cpp_STL_tutorial/01_STL_string/tutorial/02_CPP_STL之string_进阶操作.md",
+                "file": "cpp_STL_tutorial/02_STL_vector/tutorial/04_STL_vector_size_and_capacity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02_CPP_STL之string_进阶操作 的大纲"
+              "title": "04_STL_vector_size_and_capacity 的大纲"
             }
           },
           {
@@ -184,41 +184,43 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "53748eadcf55cbc6",
+  "active": "7d0e994f9d36ec50",
   "lastOpenFiles": [
-    "cpp_STL_tutorial/01_STL_string/tutorial/01_CPP_STL之string_基本操作.md",
-    "cpp_STL_tutorial/01_STL_string/tutorial/02_CPP_STL之string_进阶操作.md",
-    "cpp_STL_tutorial/01_STL_string/code/06_STL_string_replace/src/06_STL_string_replace.cpp",
-    "cpp_STL_tutorial/01_STL_string/code/06_STL_string_replace/readme/readme.md",
-    "cpp_STL_tutorial/01_STL_string/code/06_STL_string_replace/result/result.log",
-    "cpp_STL_tutorial/01_STL_string/code/06_STL_string_replace/Cmake/CMakeLists.txt",
-    "cpp_STL_tutorial/01_STL_string/code/06_STL_string_replace/src",
-    "cpp_STL_tutorial/01_STL_string/code/06_STL_string_replace/result",
-    "cpp_STL_tutorial/01_STL_string/code/06_STL_string_replace/readme",
-    "cpp_STL_tutorial/01_STL_string/code/06_STL_string_replace/Cmake",
-    "cpp_STL_tutorial/01_STL_string/code/06_STL_string_replace",
-    "cpp_STL_tutorial/01_STL_string/code/05_STL_string_find/src/05_STL_string_find.cpp",
-    "cpp_STL_tutorial/01_STL_string/code/05_STL_string_find/src/04_STL_string_splice.cpp",
-    "cpp_STL_tutorial/01_STL_string/code/05_STL_string_find/readme/readme.md",
-    "cpp_STL_tutorial/01_STL_string/code/04_STL_string_find/readme/readme.md",
-    "cpp_STL_tutorial/01_STL_string/code/04_STL_string_splice/readme/readme.md",
-    "cpp_STL_tutorial/01_STL_string/code/04_project_template/readme/readme.md",
-    "cpp_STL_tutorial/01_STL_string/code/00_project_template/readme/readme.md",
-    "cpp_STL_tutorial/README.md",
-    "cpp_STL_tutorial/01_STL_string/code/03_STL_string_set_element/readme/readme.md",
-    "cpp_STL_tutorial/01_STL_string/code/03_STL_string_assign/readme/readme.md",
-    "cpp_STL_tutorial/01_STL_string/code/03_project_template/readme/readme.md",
-    "cpp_STL_tutorial/01_STL_string/code/02_STL_string_set_value/readme/readme.md",
-    "MCU_learning/03---模块资料/03---通信/串口通信/Untitled.md",
-    "MCU_learning/03---模块资料/03---通信/串口通信/串口通信_02_UART.md",
-    "MCU_learning/03---模块资料/03---通信/串口通信/tutorial_template 1.md",
-    "Cpp_tutorial/00_document_template/tutorial_template/tutorial_template.md",
-    "Cpp_tutorial/01_basic_example/000_basic_tutorial/03_第三章简单的输入输出.md",
-    "blogs_note/CSDN_author.md",
-    "blogs_note/公众号范例.md",
-    "MCU_learning/03---模块资料/JSON学习笔记.md",
-    "MCU_learning/03---模块资料/03---通信/串口通信/串口通信_01_概述.md",
-    "docs.md",
-    "MCU_learning/01_freeRTOS/code/FreeRTOSv202406.01/FreeRTOS-LTS/LICENSE.md"
+    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/result/result.log",
+    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/src/13_vector_adress.cpp",
+    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/build/Makefile",
+    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/Cmake/CMakeLists.txt",
+    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/readme/readme.md",
+    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/bin/myname",
+    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/result",
+    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/src",
+    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/build",
+    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/Cmake",
+    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/readme",
+    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/bin",
+    "cpp_STL_tutorial/02_STL_vector/code/12_vector_swap_size copy/readme/readme.md",
+    "cpp_STL_tutorial/02_STL_vector/code/11_vector_push_back_size/readme/readme.md",
+    "cpp_STL_tutorial/02_STL_vector/code/12_vector_swap_size/readme/readme.md",
+    "cpp_STL_tutorial/02_STL_vector/code/10_vector_clear copy/readme/readme.md",
+    "cpp_STL_tutorial/02_STL_vector/code/11_vector_push_back/readme/readme.md",
+    "cpp_STL_tutorial/02_STL_vector/code/09_vector_reserve copy/readme/readme.md",
+    "cpp_STL_tutorial/02_STL_vector/code/10_vector_clear/readme/readme.md",
+    "cpp_STL_tutorial/02_STL_vector/code/09_vector_reserve/readme/readme.md",
+    "cpp_STL_tutorial/02_STL_vector/code/08_vector_resize copy/readme/readme.md",
+    "cpp_STL_tutorial/02_STL_vector/code/98_vector_size_and_capacity/readme/readme.md",
+    "cpp_STL_tutorial/02_STL_vector/code/99_vector_iterator_disable/readme/readme.md",
+    "cpp_STL_tutorial/02_STL_vector/code/08_vector_size_and_capacity_resize/readme/readme.md",
+    "cpp_STL_tutorial/02_STL_vector/code/08_vector_size_and_capacity copy/readme/readme.md",
+    "cpp_STL_tutorial/01_STL_string/tutorial/02_CPP_STL之string_进阶.md",
+    "cpp_STL_tutorial/02_STL_vector/tutorial/04_STL_vector_size_and_capacity.md",
+    "cpp_STL_tutorial/02_STL_vector/tutorial/03_STL_vector_理论原理.md",
+    "cpp_STL_tutorial/02_STL_vector/tutorial/02_STL_vector_进阶用法.md",
+    "cpp_STL_tutorial/02_STL_vector/tutorial/01_STL_vector_基础.md",
+    "cpp_STL_tutorial/02_STL_vector/code/08_vector_size_and_capacity/readme/readme.md",
+    "cpp_STL_tutorial/02_STL_vector/code/07_vector_swap/readme/readme.md",
+    "cpp_STL_tutorial/02_STL_vector/code/7_vector_swap/readme/readme.md",
+    "cpp_STL_tutorial/01_STL_string/tutorial/01_CPP_STL之string_基础.md",
+    "cpp_STL_tutorial/02_STL_vector/code/06_vector_erase_element/readme/readme.md",
+    "cpp_STL_tutorial/02_STL_vector/code/07_vector_size_and_capacity/readme/readme.md"
   ]
 }
