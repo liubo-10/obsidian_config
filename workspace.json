@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3b486917b3d9fbcf",
+        "id": "520b9fa4dcfe22de",
         "type": "tabs",
         "children": [
           {
-            "id": "7d0e994f9d36ec50",
+            "id": "666f6bd9ab1e1122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp_STL_tutorial/02_STL_vector/tutorial/04_STL_vector_size_and_capacity.md",
+                "file": "cpp_STL_tutorial/02_STL_vector/tutorial/02_STL_vector_进阶用法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04_STL_vector_size_and_capacity"
+              "title": "02_STL_vector_进阶用法"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 375.501522064209
   },
   "right": {
     "id": "02c4a8ecaf4cef20",
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCU_learning/03---模块资料/03---通信/串口通信/串口通信_02_UART.md",
+                "file": "cpp_STL_tutorial/02_STL_vector/tutorial/01_STL_vector_基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "串口通信_02_UART 的出链列表"
+              "title": "01_STL_vector_基础 的出链列表"
             }
           },
           {
@@ -142,17 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cpp_STL_tutorial/02_STL_vector/tutorial/04_STL_vector_size_and_capacity.md",
-                "followCursor": false,
+                "file": "cpp_STL_tutorial/02_STL_vector/tutorial/02_STL_vector_进阶用法.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "04_STL_vector_size_and_capacity 的大纲"
+              "title": "02_STL_vector_进阶用法 的大纲"
             }
           },
           {
-            "id": "a4692952e1ff3544",
+            "id": "4ce08b3bf1647c5f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -174,9 +174,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
@@ -184,8 +183,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7d0e994f9d36ec50",
+  "active": "666f6bd9ab1e1122",
   "lastOpenFiles": [
+    "cpp_STL_tutorial/02_STL_vector/tutorial/01_STL_vector_基础.md",
+    "cpp_STL_tutorial/02_STL_vector/tutorial/02_STL_vector_进阶用法.md",
+    "cpp_STL_tutorial/01_STL_string/tutorial/01_CPP_STL之string_基础.md",
+    "cpp_STL_tutorial/README.md",
+    "未命名 1.base",
+    "未命名.base",
+    "cpp_STL_tutorial/02_STL_vector/tutorial/04_STL_vector_size_and_capacity.md",
     "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/result/result.log",
     "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/src/13_vector_adress.cpp",
     "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/build/Makefile",
@@ -195,9 +201,6 @@
     "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/result",
     "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/src",
     "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/build",
-    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/Cmake",
-    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/readme",
-    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/bin",
     "cpp_STL_tutorial/02_STL_vector/code/12_vector_swap_size copy/readme/readme.md",
     "cpp_STL_tutorial/02_STL_vector/code/11_vector_push_back_size/readme/readme.md",
     "cpp_STL_tutorial/02_STL_vector/code/12_vector_swap_size/readme/readme.md",
@@ -212,15 +215,10 @@
     "cpp_STL_tutorial/02_STL_vector/code/08_vector_size_and_capacity_resize/readme/readme.md",
     "cpp_STL_tutorial/02_STL_vector/code/08_vector_size_and_capacity copy/readme/readme.md",
     "cpp_STL_tutorial/01_STL_string/tutorial/02_CPP_STL之string_进阶.md",
-    "cpp_STL_tutorial/02_STL_vector/tutorial/04_STL_vector_size_and_capacity.md",
     "cpp_STL_tutorial/02_STL_vector/tutorial/03_STL_vector_理论原理.md",
-    "cpp_STL_tutorial/02_STL_vector/tutorial/02_STL_vector_进阶用法.md",
-    "cpp_STL_tutorial/02_STL_vector/tutorial/01_STL_vector_基础.md",
     "cpp_STL_tutorial/02_STL_vector/code/08_vector_size_and_capacity/readme/readme.md",
     "cpp_STL_tutorial/02_STL_vector/code/07_vector_swap/readme/readme.md",
     "cpp_STL_tutorial/02_STL_vector/code/7_vector_swap/readme/readme.md",
-    "cpp_STL_tutorial/01_STL_string/tutorial/01_CPP_STL之string_基础.md",
-    "cpp_STL_tutorial/02_STL_vector/code/06_vector_erase_element/readme/readme.md",
-    "cpp_STL_tutorial/02_STL_vector/code/07_vector_size_and_capacity/readme/readme.md"
+    "cpp_STL_tutorial/02_STL_vector/code/06_vector_erase_element/readme/readme.md"
   ]
 }
