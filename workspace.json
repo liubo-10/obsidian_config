@@ -4,24 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "520b9fa4dcfe22de",
+        "id": "9a168cd2b29a1c19",
         "type": "tabs",
         "children": [
           {
-            "id": "666f6bd9ab1e1122",
+            "id": "f5f09653fead02a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp_STL_tutorial/02_STL_vector/tutorial/02_STL_vector_进阶用法.md",
+                "file": "cpp_STL_tutorial/02_STL_vector/tutorial/04_STL_vector_size_and_capacity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_STL_vector_进阶用法"
+              "title": "04_STL_vector_size_and_capacity"
+            }
+          },
+          {
+            "id": "0e8e7e9ea1300da3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.7"
+            }
+          },
+          {
+            "id": "717a0a51659a9f90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cpp_STL_tutorial/02_STL_vector/tutorial/01_STL_vector_理论原理.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_STL_vector_理论原理"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.501522064209
+    "width": 294.501522064209
   },
   "right": {
     "id": "02c4a8ecaf4cef20",
@@ -142,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cpp_STL_tutorial/02_STL_vector/tutorial/02_STL_vector_进阶用法.md",
-                "followCursor": true,
+                "file": "cpp_STL_tutorial/02_STL_vector/tutorial/01_STL_vector_理论原理.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02_STL_vector_进阶用法 的大纲"
+              "title": "01_STL_vector_理论原理 的大纲"
             }
           },
           {
@@ -170,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,24 +210,28 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "666f6bd9ab1e1122",
+  "active": "717a0a51659a9f90",
   "lastOpenFiles": [
-    "cpp_STL_tutorial/02_STL_vector/tutorial/01_STL_vector_基础.md",
-    "cpp_STL_tutorial/02_STL_vector/tutorial/02_STL_vector_进阶用法.md",
+    "cpp_STL_tutorial/02_STL_vector/tutorial/03_STL_vector_进阶用法.md",
+    "cpp_STL_tutorial/02_STL_vector/tutorial/04_STL_vector_size_and_capacity.md",
+    "cpp_STL_tutorial/03_STL_queue/tutorial/06_STL_queue.md",
+    "cpp_STL_tutorial/03_STL_queue/tutorial/01_STL_queue_理论原理.md",
+    "cpp_STL_tutorial/02_STL_vector/tutorial/01_STL_vector_理论原理.md",
+    "cpp_STL_tutorial/02_STL_vector/tutorial/02_STL_vector_基础.md",
+    "未命名",
+    "cpp_STL_tutorial/02_STL_vector/code/07_vector_swap copy/src/07_vector_swap.cpp",
+    "cpp_STL_tutorial/02_STL_vector/code/07_vector_swap copy/result/result.log",
+    "cpp_STL_tutorial/02_STL_vector/code/07_vector_swap copy/readme/readme.md",
+    "cpp_STL_tutorial/02_STL_vector/code/07_vector_swap copy/Cmake/CMakeLists.txt",
+    "cpp_STL_tutorial/02_STL_vector/code/07_vector_swap copy/build/Makefile",
+    "cpp_STL_tutorial/02_STL_vector/code/07_vector_swap copy/bin/myname",
+    "cpp_STL_tutorial/02_STL_vector/code/07_vector_swap copy/src",
+    "cpp_STL_tutorial/02_STL_vector/code/07_vector_swap copy/result",
+    "cpp_STL_tutorial/02_STL_vector/code/07_vector_swap copy/readme",
+    "cpp_STL_tutorial/02_STL_vector/code/07_vector_swap copy/Cmake",
     "cpp_STL_tutorial/01_STL_string/tutorial/01_CPP_STL之string_基础.md",
     "cpp_STL_tutorial/README.md",
-    "未命名 1.base",
-    "未命名.base",
-    "cpp_STL_tutorial/02_STL_vector/tutorial/04_STL_vector_size_and_capacity.md",
-    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/result/result.log",
-    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/src/13_vector_adress.cpp",
-    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/build/Makefile",
-    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/Cmake/CMakeLists.txt",
     "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/readme/readme.md",
-    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/bin/myname",
-    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/result",
-    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/src",
-    "cpp_STL_tutorial/02_STL_vector/code/13_vector_adress/build",
     "cpp_STL_tutorial/02_STL_vector/code/12_vector_swap_size copy/readme/readme.md",
     "cpp_STL_tutorial/02_STL_vector/code/11_vector_push_back_size/readme/readme.md",
     "cpp_STL_tutorial/02_STL_vector/code/12_vector_swap_size/readme/readme.md",
@@ -215,10 +246,7 @@
     "cpp_STL_tutorial/02_STL_vector/code/08_vector_size_and_capacity_resize/readme/readme.md",
     "cpp_STL_tutorial/02_STL_vector/code/08_vector_size_and_capacity copy/readme/readme.md",
     "cpp_STL_tutorial/01_STL_string/tutorial/02_CPP_STL之string_进阶.md",
-    "cpp_STL_tutorial/02_STL_vector/tutorial/03_STL_vector_理论原理.md",
     "cpp_STL_tutorial/02_STL_vector/code/08_vector_size_and_capacity/readme/readme.md",
-    "cpp_STL_tutorial/02_STL_vector/code/07_vector_swap/readme/readme.md",
-    "cpp_STL_tutorial/02_STL_vector/code/7_vector_swap/readme/readme.md",
-    "cpp_STL_tutorial/02_STL_vector/code/06_vector_erase_element/readme/readme.md"
+    "cpp_STL_tutorial/02_STL_vector/code/07_vector_swap/readme/readme.md"
   ]
 }
