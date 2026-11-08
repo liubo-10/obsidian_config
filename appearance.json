@@ -1,9 +1,10 @@
 {
-  "cssTheme": "Underwater",
+  "cssTheme": "Kakano",
   "theme": "obsidian",
   "baseFontSize": 16,
   "nativeMenus": false,
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
-  "monospaceFontFamily": "等线"
+  "monospaceFontFamily": "等线",
+  "accentColor": ""
 }
